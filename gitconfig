@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emani.mfb@gmail.com
+	name = sadani cheikh mohamed vadel
